@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "http-proxy-middleware": "^2.0.6",
+    "react-city-select": "^1.0.2",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.0",
+    "redux-devtools-extension": "^2.13.9"
+  }
+}

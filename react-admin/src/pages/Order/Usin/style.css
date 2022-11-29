@@ -1,0 +1,11 @@
+.userinfo-container {
+  background-color: #fff;
+  padding: 10px;
+}
+.userinfo-container p {
+  line-height: 1.5;
+  color: #666;
+}
+.userinfo-container p span {
+  margin-left: 10px;
+}
